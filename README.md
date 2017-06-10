@@ -113,14 +113,15 @@
 #### RFID
 
 #### 无线技术
++ ZigBee开发套件配套资源 (链接：http://pan.baidu.com/s/1jI1a6Om 密码：gmsq)
 
 #### 其它传感器
 
 
-## 关于软件和工具下载
+## 软件和工具下载
 - Matlab2015a 链接: https://pan.baidu.com/s/1qYJNpRu 密码: u4sn
 - AutoCAD 2016 32位 链接: https://pan.baidu.com/s/1i53g7dj 密码: pd29
-AutoCAD 2015 32位链接: https://pan.baidu.com/s/1jHO2Z9G 密码: myyv
+- AutoCAD 2015 32位链接: https://pan.baidu.com/s/1jHO2Z9G 密码: myyv
 
 
 
