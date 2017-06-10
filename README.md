@@ -5,11 +5,11 @@
 
 >
 * @ 创建时间：2017年6月10日
-* @ 创建者：[@icurious](https://github.com/icurious)
+* @ 创建者：[@iCurious](https://github.com/icurious)
 * @ 创建地点：中国矿业大学南湖校区大创中心物联网与大数据实验室
 * @ 贡献者：[@梦中无人]
 
-# 物联网与大数据实验室
+
 
 ## 软件开发及应用
 
@@ -27,7 +27,8 @@
 
 #### 前端开发
 
-##### UI设计（找创艺工坊）
+##### UI设计
++ [设计合集](https://github.com/timmy3131/design-resource)
 
 ##### HTML5/CSS
 
@@ -93,6 +94,10 @@
 
 ##### 51单片机
 
+##### STM32单片机
+
+- [正点原子](http://www.openedv.com/thread-13912-1-1.html)
+
 ##### Arduino
 
 ##### 树莓派
@@ -112,23 +117,10 @@
 #### 其它传感器
 
 
-# 关于软件开发
-+ Visual C++
-    + 
-
-## 关于MCU
-### 关于STM32单片机
-- [正点原子](http://www.openedv.com/thread-13912-1-1.html)
-- 
-
-
 ## 关于软件和工具下载
 - Matlab2015a 链接: https://pan.baidu.com/s/1qYJNpRu 密码: u4sn
 - AutoCAD 2016 32位 链接: https://pan.baidu.com/s/1i53g7dj 密码: pd29
 AutoCAD 2015 32位链接: https://pan.baidu.com/s/1jHO2Z9G 密码: myyv
-
-## 关于平面及UI设计
-https://github.com/timmy3131/design-resource
 
 
 
