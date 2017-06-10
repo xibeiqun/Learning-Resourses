@@ -8,22 +8,11 @@
 * @ 创建者：[@iCurious](https://github.com/icurious)
 * @ 创建地点：中国矿业大学南湖校区大创中心物联网与大数据实验室
 * @ 贡献者：[@梦中无人]
+
+## 矿大物联网与大数据实验室资源树
 ![tree](https://github.com/CUMTIOTResouce/resource_main/blob/master/resource_tree.png?raw=true)
 
 *资源树采用百度脑图绘制而成，文件名为resource_tree，欢迎随时更新*
-
-# resource_main
-## 所有资源的汇总页面
-*声明：本账号和资料为中国矿业大学大创基地“智创空间”物联网与大数据实验室全体成员所有，所有资料为全体成员上传，供所有人使用下载/使用，不得用作学习之外的用途。若上传资料涉及到版权问题，欢迎联系邮箱：cumtdczxwlw@163.com。欢迎大家加入到这个项目中，一起持续更新，同时也学会更多好玩好用的东西，比如如何玩转Github，多人协作办公，搭建自己的网站和个人博客等等*
-
-
->
-* @ 创建时间：2017年6月10日
-* @ 创建者：[@iCurious](https://github.com/icurious)
-* @ 创建地点：中国矿业大学南湖校区大创中心物联网与大数据实验室
-* @ 贡献者：[@梦中无人]
-
-## 矿大物联网与大数据实验室资源树
 
 
 ## 软件开发及应用
@@ -31,7 +20,7 @@
 ### 移动开发
 
 #### 安卓
-
++ 安卓开发合集(链接：http://pan.baidu.com/s/1geZy5Vl 密码：xmd6)
 #### IOS
 
 #### Unity3D
@@ -45,8 +34,11 @@
 ##### UI设计
 + [设计合集](https://github.com/timmy3131/design-resource)
 ##### HTML5/CSS
-
++ [HTML5/CSS学习合集](http://www.runoob.com/)
++ [mozilla共建开发网络](https://developer.mozilla.org/zh-CN/)
++ [DW教程](http://pan.baidu.com/s/1nvv6PEp)
 ##### JavaScript
++ http://www.runoob.com/js/js-tutorial.html
 
 #### 后端开发
 
@@ -71,11 +63,14 @@
 ##### Matlab
 
 ##### Python
-
++ (Python 学习合集)[https://www.zhihu.com/question/20039623]
++ 
 ### 应用软件
 
 #### C++
-
++ [C++视频教程](http://pan.baidu.com/s/1misReek)
++ Visual C++(含择善教育视频教程) (链接：http://pan.baidu.com/s/1o8e9S4E 密码：8ub3)
++ 《OpenCV3编程入门》配套源代码合集(http://pan.baidu.com/s/1dFpbD4H)
 #### Java
 
 #### Python
@@ -85,7 +80,7 @@
 #### C#
 
 #### Linux
-
++ Linux视频教程(链接：http://pan.baidu.com/s/1qYlrwXu 密码：30zy)
 ## 嵌入式开发及应用
 
 ### 嵌入式软件开发
@@ -108,8 +103,11 @@
 
 #### MCU
 
+##### PCB及原理图设计
++ [PADS绘图软件教程](http://pan.baidu.com/s/1sl58f3R)
++ 
 ##### 51单片机
-
+- [郭天祥10天学会51单片机教程](http://pan.baidu.com/s/1i4NPfXr)
 ##### Arduino
 
 ##### 树莓派
@@ -118,12 +116,14 @@
 
 ##### STM32
 - [正点原子](http://www.openedv.com/thread-13912-1-1.html)
+- STM32视频教程(链接：http://pan.baidu.com/s/1o7ZQcT8 密码：xoir)
 ##### FPGA/CPLD
-
++ FPGA学习教程(链接：http://pan.baidu.com/s/1kV1G8E7 密码：z680)
++ CPLD学习教程(链接：http://pan.baidu.com/s/1cD4ngi 密码：8l8a)
 #### 嵌入式Linux
 
 #### 机器人/过程控制
-
++ 机器人教程合集(链接：http://pan.baidu.com/s/1eRCzTxo 密码：74yf)
 ##### 机械与结构设计
 
 ##### 3D打印
@@ -137,25 +137,41 @@
 #### 其它传感器
 
 ## 图书
++ 计算机专业书籍合集1(计算机基础相关) (链接：http://pan.baidu.com/s/1o7GTsee 密码：69kl)
++ 计算机专业书籍合集2(计算机视觉相关)链接：http://pan.baidu.com/s/1qYLjlZA 密码：kf7q
++ 物联网书籍合集 (链接：http://pan.baidu.com/s/1c15Iw5E 密码：goks)
++ 《算法艺术和信息学科竞赛》(链接：http://pan.baidu.com/s/1qY0k1aO 密码：4vyg)
 
-## 软件及工具
 
-## 报告/博客/博文
+## 报告/博文
 
-## 网站推荐
+## 网站及博客推荐
+- (矿大学生在线导航站)[http://online.cumt.edu.cn/]
+- (虫部落搜索)[http://www.chongbuluo.com/]
+- (果壳网慕课导航页)[http://mooc.guokr.com/course/]
+
 
 ## 其他/杂项
 
 ## 完整工程项目
++ [基于51单片机的心形流水灯(表白神器)](https://github.com/icurious/heart_shape_light)
++ [基于51单片机的自动水温控制系统](https://github.com/icurious/auto_temperture_controler)
 
 ## 完整比赛项目
 
 
-## 软件和工具下载
-- Matlab2015a 链接: https://pan.baidu.com/s/1qYJNpRu 密码: u4sn
-- AutoCAD 2016 32位 链接: https://pan.baidu.com/s/1i53g7dj 密码: pd29
-- AutoCAD 2015 32位链接: https://pan.baidu.com/s/1jHO2Z9G 密码: myyv
 
+## 软件及工具(仅供交流学习使用）
+- Matlab2015a (链接: https://pan.baidu.com/s/1qYJNpRu 密码: u4sn)
+- Matlab2015b_win32(链接：http://pan.baidu.com/s/1bMH4qM 密码：m1nz)
+- AutoCAD 2016 32位 (链接: https://pan.baidu.com/s/1i53g7dj 密码: pd29)
+- AutoCAD 2015 32位 (链接: https://pan.baidu.com/s/1jHO2Z9G 密码: myyv)
+- Altium Designer 17.0.6 (链接：http://pan.baidu.com/s/1ge9FYM3 密码：wcp9)
+- [Altium Designer常见元件库](http://pan.baidu.com/s/1dFkrQvR)
+- VMare Workstation (链接：http://pan.baidu.com/s/1eRPXdtC 密码：6wg6)
+- MyEclipse (链接：http://pan.baidu.com/s/1jHZYsf0 密码：v1x2)
+- MS Office2016 (链接：http://pan.baidu.com/s/1gfBYfQF 密码：qddn)
+- MS Visio2016 (链接：http://pan.baidu.com/s/1kUFD4Cv 密码：ml5n)
 
 
 
