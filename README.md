@@ -8,8 +8,7 @@
 * @ 创建者：[@iCurious](https://github.com/icurious)
 * @ 创建地点：中国矿业大学南湖校区大创中心物联网与大数据实验室
 * @ 贡献者：[@梦中无人]
-
-
+![tree](https://github.com/CUMTIOTResouce/resource_main/blob/master/resource_tree.png?raw=true)
 
 ## 软件开发及应用
 
