@@ -161,16 +161,14 @@
 - [简书](http://www.jianshu.com/)
 
 > 课程学习
-
 - [学堂在线慕课平台](http://www.xuetangx.com/)
-- [中国大学慕课](http://www.icourse163.org/)
-- [Coursera](https://www.coursera.org/courses)
+- [中国大学慕课](http://www.icourse163.org/)
+- [Coursera](https://www.coursera.org/courses)
 - [Edx](https://www.edx.org/)
 - [慕课网](http://www.imooc.com/)
 - [万门大学](http://www.wanmen.org/#/)
 
 > 开源项目
-
 - [Github](https://github.com/)
   
 > 博客
@@ -185,8 +183,7 @@
 - [豆瓣](https://www.douban.com/)
  
 > 其他
-
-- [B站](http://www.bilibili.com/)
+- [B站](http://www.bilibili.com/)
 - [石墨文档](https://shimo.im/)
 - [牛客网](https://www.nowcoder.com/)
 
