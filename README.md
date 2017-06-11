@@ -7,7 +7,7 @@
 * @ 创建时间：2017年6月10日
 * @ 创建者：[@iCurious](https://github.com/icurious)
 * @ 创建地点：中国矿业大学南湖校区大创中心物联网与大数据实验室
-* @ 贡献者：[@梦中无人]
+* @ 贡献者：[@梦中无人]()
 
 ## 矿大物联网与大数据实验室资源树
 ![tree](https://github.com/CUMTIOTResouce/resource_main/blob/master/resource_tree.png?raw=true)
@@ -63,7 +63,7 @@
 ##### Matlab
 
 ##### Python
-+ (Python 学习合集)[https://www.zhihu.com/question/20039623]
++ [Python 学习合集](https://www.zhihu.com/question/20039623)
 + 
 ### 应用软件
 
@@ -107,7 +107,7 @@
 + [PADS绘图软件教程](http://pan.baidu.com/s/1sl58f3R)
 + 
 ##### 51单片机
-- [郭天祥10天学会51单片机教程](http://pan.baidu.com/s/1i4NPfXr)
+- 郭天祥10天学会51单片机教程(链接：http://pan.baidu.com/s/1o8UGGno 密码：xz99)
 ##### Arduino
 
 ##### 树莓派
@@ -146,16 +146,56 @@
 ## 报告/博文
 
 ## 网站及博客推荐
-- (矿大学生在线导航站)[http://online.cumt.edu.cn/]
-- (虫部落搜索)[http://www.chongbuluo.com/]
-- (果壳网慕课导航页)[http://mooc.guokr.com/course/]
+> 导航站
 
+- [矿大学生在线导航站](http://online.cumt.edu.cn/)
+- [虫部落搜索](http://www.chongbuluo.com/)
+- [果壳网慕课导航页](http://mooc.guokr.com/course/)
+
+> 问答及经验
+
+- [Stack Overflow](https://stackoverflow.com/)
+- [知乎](https://www.zhihu.com/topics)
+- [简书](http://www.jianshu.com/)
+
+> 课程学习
+
+- [学堂在线慕课平台](http://www.xuetangx.com/)
+- [中国大学慕课](http://www.icourse163.org/)
+- [Coursera](https://www.coursera.org/courses)
+- [Edx](https://www.edx.org/)
+- [慕课网](http://www.imooc.com/)
+- [万门大学](http://www.wanmen.org/#/)
+
+> 开源项目
+
+- [Github](https://github.com/)
+  
+> 博客
+
+- [CSDN中国程序员网](http://www.csdn.net/)
+- [博客园](https://www.cnblogs.com/)
+
+
+> 资讯
+
+- [少数派](https://sspai.com/)
+- [36Kr](http://36kr.com/)
+- [爱范儿](http://www.ifanr.com/)
+- [豆瓣](https://www.douban.com/)
+ 
+> 其他
+
+- [B站](http://www.bilibili.com/)
+- [石墨文档](https://shimo.im/)
+- [牛客网](https://www.nowcoder.com/)
 
 ## 其他/杂项
 
 ## 完整工程项目
 + [基于51单片机的心形流水灯(表白神器)](https://github.com/icurious/heart_shape_light)
 + [基于51单片机的自动水温控制系统](https://github.com/icurious/auto_temperture_controler)
++ [8x8x8光立方](https://github.com/icurious/8x8x8_light_cubic)
 
 ## 完整比赛项目
 
