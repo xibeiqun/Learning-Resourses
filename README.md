@@ -19,7 +19,6 @@
 
 ## 网站及博客推荐
 > 导航站
-
 - [矿大学生在线导航站](http://online.cumt.edu.cn/)
 - [虫部落搜索](http://www.chongbuluo.com/)
 - [果壳网慕课导航页](http://mooc.guokr.com/course/)
@@ -34,7 +33,7 @@
 - [学堂在线慕课平台](http://www.xuetangx.com/)
 - [中国大学慕课](http://www.icourse163.org/)
 - [Coursera](https://www.coursera.org/courses)
-- [Edx](https://www.edx.org/)
+- [Edx](https://www.edx.org/)
 - [慕课网](http://www.imooc.com/)
 - [万门大学](http://www.wanmen.org/#/)
 
