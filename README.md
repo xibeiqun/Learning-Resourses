@@ -14,7 +14,7 @@
 ## 矿大物联网与大数据实验室资源树
 ![tree](https://github.com/CUMTIOTResouce/resource_main/blob/master/resource_tree.png?raw=true)
 
-*资源树采用百度脑图绘制而成，文件名为resource_tree，欢迎随时更新*
+*资源树采用百度脑图绘制而成，文件名为resource_tree[链接](http://naotu.baidu.com/file/3be3cd6025739763b3bd759273feb74f?token=dc58602534d23477)，欢迎随时更新*
 
 
 ## 网站及博客推荐
