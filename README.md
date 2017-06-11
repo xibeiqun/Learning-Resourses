@@ -174,14 +174,12 @@
 - [Github](https://github.com/)
   
 > 博客
-
-- [CSDN中国程序员网](http://www.csdn.net/)
+- [CSDN中国程序员网](http://www.csdn.net/)
 - [博客园](https://www.cnblogs.com/)
 
 
 > 资讯
-
-- [少数派](https://sspai.com/)
+- [少数派](https://sspai.com/)
 - [36Kr](http://36kr.com/)
 - [爱范儿](http://www.ifanr.com/)
 - [豆瓣](https://www.douban.com/)
@@ -190,7 +188,7 @@
 
 - [B站](http://www.bilibili.com/)
 - [石墨文档](https://shimo.im/)
-- [牛客网](https://www.nowcoder.com/)
+- [牛客网](https://www.nowcoder.com/)
 
 ## 其他/杂项
 
