@@ -158,6 +158,7 @@
 ##### STM32
 - [正点原子](http://www.openedv.com/thread-13912-1-1.html)
 - STM32视频教程(链接：http://pan.baidu.com/s/1o7ZQcT8 密码：xoir)
+- 红龙STM32教程(链接：http://pan.baidu.com/s/1bp1qWXL 密码：zhfr)
 ##### FPGA/CPLD
 + FPGA学习教程(链接：http://pan.baidu.com/s/1kV1G8E7 密码：z680)
 + CPLD学习教程(链接：http://pan.baidu.com/s/1cD4ngi 密码：8l8a)
