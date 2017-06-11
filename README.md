@@ -107,7 +107,7 @@
 + [PADS绘图软件教程](http://pan.baidu.com/s/1sl58f3R)
 + 
 ##### 51单片机
-- [郭天祥10天学会51单片机教程](http://pan.baidu.com/s/1i4NPfXr)
+- 郭天祥10天学会51单片机教程(链接：http://pan.baidu.com/s/1kUROJHX 密码：egf1)
 ##### Arduino
 
 ##### 树莓派
@@ -174,6 +174,7 @@
 ## 完整工程项目
 + [基于51单片机的心形流水灯(表白神器)](https://github.com/icurious/heart_shape_light)
 + [基于51单片机的自动水温控制系统](https://github.com/icurious/auto_temperture_controler)
++ [8x8x8光立方](https://github.com/icurious/8x8x8_light_cubic)
 
 ## 完整比赛项目
 
