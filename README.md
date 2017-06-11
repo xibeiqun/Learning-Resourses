@@ -107,7 +107,7 @@
 + [PADS绘图软件教程](http://pan.baidu.com/s/1sl58f3R)
 + 
 ##### 51单片机
-- 郭天祥10天学会51单片机教程(链接：http://pan.baidu.com/s/1kUROJHX 密码：egf1)
+- 郭天祥10天学会51单片机教程(链接：http://pan.baidu.com/s/1o8UGGno 密码：xz99)
 ##### Arduino
 
 ##### 树莓派
@@ -154,7 +154,7 @@
 
 > 问答及经验
 
-- [Stack Overflow](https://stackoverflow.com/)
+- [Stack Overflow](https://stackoverflow.com/)
 - [知乎](https://www.zhihu.com/topics)
 - [简书](http://www.jianshu.com/)
 
@@ -171,7 +171,7 @@
 
 - [Github](https://github.com/)
   
->博客
+> 博客
 
 - [CSDN中国程序员网](http://www.csdn.net/)
 - [博客园](https://www.cnblogs.com/)
