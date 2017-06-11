@@ -4,10 +4,12 @@
 *声明：本账号和资料为中国矿业大学大创基地“智创空间”物联网与大数据实验室全体成员所有，所有资料为全体成员上传，供所有人使用下载/使用，不得用作学习之外的用途。若上传资料涉及到版权问题，欢迎联系邮箱：cumtdczxwlw@163.com。欢迎大家加入到这个项目中，一起持续更新，同时也学会更多好玩好用的东西，比如如何玩转Github，多人协作办公，搭建自己的网站和个人博客等等*
 
 >
-* @ 创建时间：2017年6月10日
-* @ 创建者：[@iCurious](https://github.com/icurious)
-* @ 创建地点：中国矿业大学南湖校区大创中心物联网与大数据实验室
-* @ 贡献者：[@梦中无人]()
+* @ 创建时间：2017年6月10日*
+* @ 创建者：[@iCurious](https://github.com/icurious)*
+* @ 创建地点：中国矿业大学南湖校区大创中心物联网与大数据实验室*
+* @ 贡献者：[@iCurious](https://github.com/icurious),[@梦中无人](https://blog.csdn.net/icurious)//每个贡献者在这里加上自己的名字*
+
+*特别声明：有的链接和资料可能失效，更多资源在实验室的电脑中，请各位成员留意*
 
 ## 矿大物联网与大数据实验室资源树
 ![tree](https://github.com/CUMTIOTResouce/resource_main/blob/master/resource_tree.png?raw=true)
