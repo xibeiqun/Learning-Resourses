@@ -24,10 +24,9 @@
 - [果壳网慕课导航页](http://mooc.guokr.com/course/)
 
 > 问答及经验
-
 - [Stack Overflow](https://stackoverflow.com/)
-- [知乎](https://www.zhihu.com/topics)
-- [简书](http://www.jianshu.com/)
+- [知乎](https://www.zhihu.com/topics)
+- [简书](http://www.jianshu.com/)
 
 > 课程学习
 - [学堂在线慕课平台](http://www.xuetangx.com/)
