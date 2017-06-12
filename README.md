@@ -186,6 +186,7 @@
 
 
 ## 报告/博文
+- 行业分析报告（链接：http://pan.baidu.com/s/1eSvLmgE 密码：5yf3）
 
 ## 其他/杂项
 
