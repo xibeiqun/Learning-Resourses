@@ -111,7 +111,8 @@
 + [基于51单片机的心形流水灯(表白神器)](https://github.com/icurious/heart_shape_light)
 + [基于51单片机的自动水温控制系统](https://github.com/icurious/auto_temperture_controler)
 + [8x8x8光立方](https://github.com/icurious/8x8x8_light_cubic)
-
++ [python项目](https://github.com/liuqidev)
++ [其他项目](https://github.com/liuqidev)
 ---
 
 ### 软件及工具(仅供交流学习使用）
