@@ -26,12 +26,12 @@
 - [慕课网|http://www.imooc.com/](http://www.imooc.com/)
 - [万门大学|http://www.wanmen.org/#/](http://www.wanmen.org/#/)
 
-#### 开源社区
+#### 开源社区
 - [Github|https://github.com/](https://github.com/)
 - [CSDN中国程序员网|http://www.csdn.net/](http://www.csdn.net/)
 - [博客园|https://www.cnblogs.com/](https://www.cnblogs.com/)
 
-#### 资讯娱乐
+#### 资讯娱乐
 - [少数派|https://sspai.com/](https://sspai.com/)
 - [36Kr|http://36kr.com/](http://36kr.com/)
 - [爱范儿|http://www.ifanr.com/](http://www.ifanr.com/)
@@ -39,7 +39,7 @@
 - [B站|http://www.bilibili.com/](http://www.bilibili.com/)
 - [网易云音乐|http://music.163.com/](http://music.163.com/)
 
-#### 编程办公
+#### 编程办公
 - [石墨文档|https://shimo.im/](https://shimo.im/)
 - [牛客网|https://www.nowcoder.com/](https://www.nowcoder.com/)
 - [leetcode|https://leetcode.com](https://leetcode.com)
@@ -48,25 +48,10 @@
 - [web教程|http://www.w3school.com.cn/](http://www.w3school.com.cn/)
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
----
-### 软件开发及应用
-
-#### 安卓开发
-+ 安卓开发合集(链接：http://pan.baidu.com/s/1geZy5Vl 密码：xmd6)
-
-#### IOS
-
-#### Unity3D
-
-#### 微信小程序
-
-#### WEB开发
-
-#### 前端开发
-
-##### UI设计
+#### 平面设计
 + [设计合集](https://github.com/timmy3131/design-resource)
-
+---
+### 编程开发
 ##### HTML5/CSS
 + [HTML5/CSS学习合集](http://www.runoob.com/)
 + [mozilla共建开发网络](https://developer.mozilla.org/zh-CN/)
@@ -74,28 +59,6 @@
 
 ##### JavaScript
 + http://www.runoob.com/js/js-tutorial.html
-
-#### 后端开发
-
-#### PHP
-
-#### java
-
-#### .NET
-
-#### 数据库应用
-
-#### MySQL
-
-#### Oracle
-
-#### 云计算和大数据
-
-#### 大数据
-
-#### R语言
-
-#### Matlab
 
 #### Python
 + [Python 学习合集](https://www.zhihu.com/question/20039623)
@@ -105,47 +68,16 @@
 + Visual C++(含择善教育视频教程) (链接：http://pan.baidu.com/s/1o8e9S4E 密码：8ub3)
 + 《OpenCV3编程入门》配套源代码合集(http://pan.baidu.com/s/1dFpbD4H)
 
-#### Java
-
-#### Qt
-
-#### C#
-
 #### Linux
 + Linux视频教程(链接：http://pan.baidu.com/s/1qYlrwXu 密码：30zy)
-## 嵌入式开发及应用
 
-### 嵌入式软件开发
-
-#### 下位机
-
-#### C语言
-
-#### 汇编
-
-#### 上位机
-
-#### 安卓
-
-#### C#
-
-#### 嵌入式Qt
-
-### 嵌入式应用
-
-#### MCU
+### 嵌入式开发及应用
 
 #### PCB及原理图设计
 + [PADS绘图软件教程](http://pan.baidu.com/s/1sl58f3R)
 
 #### 51单片机
 - 郭天祥10天学会51单片机教程(链接：http://pan.baidu.com/s/1o8UGGno 密码：xz99)
-
-#### Arduino
-
-#### 树莓派
-
-#### ARM
 
 #### STM32
 - [正点原子](http://www.openedv.com/thread-13912-1-1.html)
@@ -160,14 +92,6 @@
 
 #### 机器人/过程控制
 + 机器人教程合集(链接：http://pan.baidu.com/s/1eRCzTxo 密码：74yf)
-
-##### 机械与结构设计
-
-#### 3D打印
-
-### 传感器创新应用
-
-#### RFID
 
 #### 无线技术
 + ZigBee开发套件配套资源 (链接：http://pan.baidu.com/s/1jI1a6Om 密码：gmsq)
