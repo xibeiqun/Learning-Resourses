@@ -1,47 +1,54 @@
 
+### (To be continue... 持续更新中......)
+
+---
 ### 我常用的一些工具和网站
 ![pic1](https://github.com/liuqidev/Learning-Resourses/blob/master/pic1.JPG?raw=true)
 ![pic2](https://github.com/liuqidev/Learning-Resourses/blob/master/pic2.JPG?raw=true)
 
-### 网站及博客推荐
+---
+### 常用网站
 #### 导航站
-- [矿大学生在线导航站](http://online.cumt.edu.cn/)
-- [虫部落搜索](http://www.chongbuluo.com/)
-- [果壳网慕课导航页](http://mooc.guokr.com/course/)
+- [虫部落搜索|http://www.chongbuluo.com/](http://www.chongbuluo.com/)
+- [果壳网慕课导航页|http://mooc.guokr.com/course/](http://mooc.guokr.com/course/)
+- [矿大学生在线导航站|http://online.cumt.edu.cn/](http://online.cumt.edu.cn/)
 
 #### 问答及经验
-- [Stack Overflow](https://stackoverflow.com/)
-- [知乎](https://www.zhihu.com/topics)
-- [简书](http://www.jianshu.com/)
+- [Stack Overflow|https://stackoverflow.com/](https://stackoverflow.com/)
+- [知乎|https://www.zhihu.com/topics](https://www.zhihu.com/topics)
+- [简书|http://www.jianshu.com/](http://www.jianshu.com/)
 
-#### 课程学习
-- [学堂在线慕课平台](http://www.xuetangx.com/)
-- [中国大学慕课](http://www.icourse163.org/)
-- [Coursera](https://www.coursera.org/courses)
-- [Edx](https://www.edx.org/)
-- [慕课网](http://www.imooc.com/)
-- [万门大学](http://www.wanmen.org/#/)
+#### 课程学习
+- [学堂在线|http://www.xuetangx.com/](http://www.xuetangx.com/)
+- [中国大学慕课|http://www.icourse163.org/](http://www.icourse163.org/)
+- [Coursera|https://www.coursera.org/courses](https://www.coursera.org/courses)
+- [Edx|https://www.edx.org/](https://www.edx.org/)
+- [慕课网|http://www.imooc.com/](http://www.imooc.com/)
+- [万门大学|http://www.wanmen.org/#/](http://www.wanmen.org/#/)
 
-#### 开源项目
-- [Github](https://github.com/)
-  
-#### 博客
-- [CSDN中国程序员网](http://www.csdn.net/)
-- [博客园](https://www.cnblogs.com/)
+#### 开源社区
+- [Github|https://github.com/](https://github.com/)
+- [CSDN中国程序员网|http://www.csdn.net/](http://www.csdn.net/)
+- [博客园|https://www.cnblogs.com/](https://www.cnblogs.com/)
 
+#### 资讯娱乐
+- [少数派|https://sspai.com/](https://sspai.com/)
+- [36Kr|http://36kr.com/](http://36kr.com/)
+- [爱范儿|http://www.ifanr.com/](http://www.ifanr.com/)
+- [豆瓣|https://www.douban.com/](https://www.douban.com/)
+- [B站|http://www.bilibili.com/](http://www.bilibili.com/)
+- [网易云音乐|http://music.163.com/](http://music.163.com/)
 
-#### 资讯
-- [少数派](https://sspai.com/)
-- [36Kr](http://36kr.com/)
-- [爱范儿](http://www.ifanr.com/)
-- [豆瓣](https://www.douban.com/)
- 
-#### 其他
-- [B站](http://www.bilibili.com/)
-- [石墨文档](https://shimo.im/)
-- [牛客网](https://www.nowcoder.com/)
+#### 编程办公
+- [石墨文档|https://shimo.im/](https://shimo.im/)
+- [牛客网|https://www.nowcoder.com/](https://www.nowcoder.com/)
+- [leetcode|https://leetcode.com](https://leetcode.com)
 
+#### 官方教程
+- [web教程|http://www.w3school.com.cn/](http://www.w3school.com.cn/)
+- [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
+---
 ### 软件开发及应用
 
 #### 安卓开发
@@ -89,16 +96,12 @@
 
 #### Python
 + [Python 学习合集](https://www.zhihu.com/question/20039623)
-+ 
-### 应用软件
 
 #### C++
 + [C++视频教程](http://pan.baidu.com/s/1misReek)
 + Visual C++(含择善教育视频教程) (链接：http://pan.baidu.com/s/1o8e9S4E 密码：8ub3)
 + 《OpenCV3编程入门》配套源代码合集(http://pan.baidu.com/s/1dFpbD4H)
 #### Java
-
-#### Python
 
 #### Qt
 
@@ -162,25 +165,25 @@
 + ZigBee开发套件配套资源 (链接：http://pan.baidu.com/s/1jI1a6Om 密码：gmsq)
 #### 其它传感器
 
+---
 ### 图书
 + 计算机专业书籍合集1(计算机基础相关) (链接：http://pan.baidu.com/s/1o7GTsee 密码：69kl)
 + 计算机专业书籍合集2(计算机视觉相关)链接：http://pan.baidu.com/s/1qYLjlZA 密码：kf7q
 + 物联网书籍合集 (链接：http://pan.baidu.com/s/1c15Iw5E 密码：goks)
 + 《算法艺术和信息学科竞赛》(链接：http://pan.baidu.com/s/1qY0k1aO 密码：4vyg)
 
-
-### 报告/博文
+---
+### 报告/论文
 - 行业分析报告（链接：http://pan.baidu.com/s/1eSvLmgE 密码：5yf3）
 
-### 其他/杂项
+---
 
-### 完整工程项目
+### 完整项目
 + [基于51单片机的心形流水灯(表白神器)](https://github.com/icurious/heart_shape_light)
 + [基于51单片机的自动水温控制系统](https://github.com/icurious/auto_temperture_controler)
 + [8x8x8光立方](https://github.com/icurious/8x8x8_light_cubic)
 
-### 完整比赛项目
-
+---
 
 ### 软件及工具(仅供交流学习使用）
 - Matlab2015a (链接: https://pan.baidu.com/s/1qYJNpRu 密码: u4sn)
