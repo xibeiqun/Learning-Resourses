@@ -13,7 +13,7 @@
 - [果壳网慕课导航页|http://mooc.guokr.com/course/](http://mooc.guokr.com/course/)
 - [矿大学生在线导航站|http://online.cumt.edu.cn/](http://online.cumt.edu.cn/)
 
-#### 问答及经验
+#### 答及经验
 - [Stack Overflow|https://stackoverflow.com/](https://stackoverflow.com/)
 - [知乎|https://www.zhihu.com/topics](https://www.zhihu.com/topics)
 - [简书|http://www.jianshu.com/](http://www.jianshu.com/)
