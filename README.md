@@ -24,7 +24,7 @@
 - [Coursera|https://www.coursera.org/courses](https://www.coursera.org/courses)
 - [Edx|https://www.edx.org/](https://www.edx.org/)
 - [慕课网|http://www.imooc.com/](http://www.imooc.com/)
-- [万门大学|http://www.wanmen.org/#/](http://www.wanmen.org/#/)
+- [万门大学|http://www.wanmen.org/#/](http://www.wanmen.org/#/)
 
 #### 开源社区
 - [Github|https://github.com/](https://github.com/)
@@ -44,24 +44,21 @@
 - [牛客网|https://www.nowcoder.com/](https://www.nowcoder.com/)
 - [leetcode|https://leetcode.com](https://leetcode.com)
 
-#### 官方教程
-- [web教程|http://www.w3school.com.cn/](http://www.w3school.com.cn/)
-- [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-
 #### 平面设计
 + [设计合集](https://github.com/timmy3131/design-resource)
 ---
-### 编程开发
-##### HTML5/CSS
+### 软件开发
+##### web开发
++ [web教程|http://www.w3school.com.cn/](http://www.w3school.com.cn/)
 + [HTML5/CSS学习合集](http://www.runoob.com/)
 + [mozilla共建开发网络](https://developer.mozilla.org/zh-CN/)
 + [DW教程](http://pan.baidu.com/s/1nvv6PEp)
 
-##### JavaScript
-+ http://www.runoob.com/js/js-tutorial.html
-
 #### Python
 + [Python 学习合集](https://www.zhihu.com/question/20039623)
++ [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
++ [Requests](http://docs.python-requests.org/en/master/)
++ [uWSGI](http://uwsgi-docs.readthedocs.io/en/latest/WSGIquickstart.html)
 
 #### C++
 + [C++视频教程](http://pan.baidu.com/s/1misReek)
@@ -71,6 +68,7 @@
 #### Linux
 + Linux视频教程(链接：http://pan.baidu.com/s/1qYlrwXu 密码：30zy)
 
+---
 ### 嵌入式开发及应用
 
 #### PCB及原理图设计
