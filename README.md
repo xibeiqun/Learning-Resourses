@@ -53,6 +53,7 @@
 
 #### 安卓开发
 + 安卓开发合集(链接：http://pan.baidu.com/s/1geZy5Vl 密码：xmd6)
+
 #### IOS
 
 #### Unity3D
@@ -65,10 +66,12 @@
 
 ##### UI设计
 + [设计合集](https://github.com/timmy3131/design-resource)
+
 ##### HTML5/CSS
 + [HTML5/CSS学习合集](http://www.runoob.com/)
 + [mozilla共建开发网络](https://developer.mozilla.org/zh-CN/)
 + [DW教程](http://pan.baidu.com/s/1nvv6PEp)
+
 ##### JavaScript
 + http://www.runoob.com/js/js-tutorial.html
 
@@ -101,6 +104,7 @@
 + [C++视频教程](http://pan.baidu.com/s/1misReek)
 + Visual C++(含择善教育视频教程) (链接：http://pan.baidu.com/s/1o8e9S4E 密码：8ub3)
 + 《OpenCV3编程入门》配套源代码合集(http://pan.baidu.com/s/1dFpbD4H)
+
 #### Java
 
 #### Qt
@@ -133,9 +137,10 @@
 
 #### PCB及原理图设计
 + [PADS绘图软件教程](http://pan.baidu.com/s/1sl58f3R)
-+ 
+
 #### 51单片机
 - 郭天祥10天学会51单片机教程(链接：http://pan.baidu.com/s/1o8UGGno 密码：xz99)
+
 #### Arduino
 
 #### 树莓派
@@ -146,13 +151,16 @@
 - [正点原子](http://www.openedv.com/thread-13912-1-1.html)
 - STM32视频教程(链接：http://pan.baidu.com/s/1o7ZQcT8 密码：xoir)
 - 红龙STM32教程(链接：http://pan.baidu.com/s/1bp1qWXL 密码：zhfr)
+
 #### FPGA/CPLD
 + FPGA学习教程(链接：http://pan.baidu.com/s/1kV1G8E7 密码：z680)
 + CPLD学习教程(链接：http://pan.baidu.com/s/1cD4ngi 密码：8l8a)
+
 #### 嵌入式Linux
 
 #### 机器人/过程控制
 + 机器人教程合集(链接：http://pan.baidu.com/s/1eRCzTxo 密码：74yf)
+
 ##### 机械与结构设计
 
 #### 3D打印
@@ -163,7 +171,6 @@
 
 #### 无线技术
 + ZigBee开发套件配套资源 (链接：http://pan.baidu.com/s/1jI1a6Om 密码：gmsq)
-#### 其它传感器
 
 ---
 ### 图书
@@ -200,5 +207,4 @@
 - [GithubDesktop客户端下载](https://desktop.github.com/)
 - [Gitbush](https://git-for-windows.github.io/)
 
-
-
+---
